@@ -1,5 +1,4 @@
-home.sh
-touch coder
+
 read dd mm yyyy
 echo "$dd""-""$mm""-""$yyyy"
 read n1 n2
